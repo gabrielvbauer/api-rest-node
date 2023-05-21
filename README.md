@@ -1,9 +1,9 @@
 # RF
 
-- [ ] O usuário deve poder criar uma nova transação;
+- [x] O usuário deve poder criar uma nova transação;
 - [ ] O usuário deve poder obter um resumo de sua conta;
-- [ ] O usuário deve poder listar todas transações que já ocorreram
-- [ ] O usuário edve poder visualizar uma transação única;
+- [x] O usuário deve poder listar todas transações que já ocorreram
+- [x] O usuário edve poder visualizar uma transação única;
 
 # RN
 
