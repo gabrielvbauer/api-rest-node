@@ -96,7 +96,7 @@ describe('Transaction routes', () => {
       .send({
         title: 'Debit transaction',
         amount: 2000,
-        type: 'credit',
+        type: 'debit',
       })
 
     const summaryResponse = await request(app.server)
